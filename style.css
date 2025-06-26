@@ -47,3 +47,8 @@ body {
     transition: background 0.2s ease, transform 0.1s ease;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
+
+  .btn:hover {
+    background: #ddd;
+    transform: translateY(-2px);
+  }
