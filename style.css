@@ -57,3 +57,7 @@ body {
     background: #ff7043;
     color: white;
   }
+
+  .btn.operator:hover {
+    background: #f4511e;
+  }
